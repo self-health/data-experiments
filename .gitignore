@@ -9,6 +9,7 @@ client_secrets.json
 quickstart.py
 settings.yaml
 credentials.json
+update_file_registry.py
 
 # C extensions
 *.so
