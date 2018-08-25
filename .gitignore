@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Added by JCG
+data/
+client_secrets.json
+quickstart.py
+settings.yaml
+credentials.json
+
 # C extensions
 *.so
 

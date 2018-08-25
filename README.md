@@ -1,6 +1,33 @@
 # data-experiments
 experiments in processing NLM data
 
+## Setup
+
+Python 2 is used. The reason is that some of the needed packages have not been
+upgraded to 3 as of yet.
+
+Pipenv is used for package management.
+
+To install:
+
+pip install pipenv
+
+To install required packages cd to project and run:
+
+pipenv install
+
+To add packages cd to project and run:
+
+pipenv install package_name
+
+To run the project you will need to activate the virtual environment created
+by pipenv.
+
+pipenv shell
+
+
+
+
 ## Getting NLM License
 
 1. go to [UML-S license](https://uts.nlm.nih.gov//license.html)
